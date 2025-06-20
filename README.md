@@ -27,5 +27,10 @@ Este projeto implementa um sistema interativo para edição e análise de imagen
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/sistema_processamento_imagens.git](https://github.com/SEU_USUARIO/sistema_processamento_imagens.git)
+git clone [https://github.com/vncs16/Processamento_de_Imagens)
 cd sistema_processamento_imagens
+
+## Comandos
+
+.\.venv\Scripts\activate
+git push origin main
