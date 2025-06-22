@@ -32,5 +32,6 @@ cd sistema_processamento_imagens
 
 ## Comandos
 
-.\.venv\Scripts\activate
-git push origin main
+pip install -r requirements.txt ##Para baixar os requerimentos
+.\.venv\Scripts\activate ##Para ativar o ambiente virtual
+git push origin main ##Para rodar o código
