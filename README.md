@@ -34,4 +34,4 @@ cd sistema_processamento_imagens
 
 pip install -r requirements.txt ##Para baixar os requerimentos
 .\.venv\Scripts\activate ##Para ativar o ambiente virtual
-git push origin main ##Para rodar o código
+python -m src.main ##Para rodar o código
